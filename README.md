@@ -1,0 +1,2 @@
+# wildquantscdn
+wildquants.site
